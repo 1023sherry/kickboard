@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/kickboard/static/css/main.4a719a0a.css",
-    "main.js": "/kickboard/static/js/main.d5ab4cc1.js",
+    "main.js": "/kickboard/static/js/main.1de8bbe6.js",
     "static/js/879.b8d52e62.chunk.js": "/kickboard/static/js/879.b8d52e62.chunk.js",
     "static/js/453.40540bb1.chunk.js": "/kickboard/static/js/453.40540bb1.chunk.js",
     "service-worker.js": "/kickboard/service-worker.js",
     "index.html": "/kickboard/index.html",
     "main.4a719a0a.css.map": "/kickboard/static/css/main.4a719a0a.css.map",
-    "main.d5ab4cc1.js.map": "/kickboard/static/js/main.d5ab4cc1.js.map",
+    "main.1de8bbe6.js.map": "/kickboard/static/js/main.1de8bbe6.js.map",
     "879.b8d52e62.chunk.js.map": "/kickboard/static/js/879.b8d52e62.chunk.js.map",
     "453.40540bb1.chunk.js.map": "/kickboard/static/js/453.40540bb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a719a0a.css",
-    "static/js/main.d5ab4cc1.js"
+    "static/js/main.1de8bbe6.js"
   ]
 }
